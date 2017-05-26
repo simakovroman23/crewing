@@ -1,0 +1,509 @@
+{
+  "settings": {
+    "name": "NewSite-05-26_1153",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 17,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/web-hi-res-51-512x512-95-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-65232159-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "crew-solos",
+        "meta_descr": "Crew-solos new site\ndoki-morykam\nMorskoy sayt dly morykov",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.6em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.6",
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-hi-res-51-512x512-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Crew-Slos",
+              "link": "index.html#header4-1",
+              "title": "Crew",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#header4-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Crew-Solos</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-5\">O HAC</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#pricing-table1-8\" aria-expanded=\"false\">PRICE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-2\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-3\">Based&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#social-buttons1-d\" aria-expanded=\"false\">Trendy&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts3-b\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-2\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-f\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons1-d\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts3-b\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header1-2\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-f\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts3-b\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-5\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header4-1\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts3-b\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"index.html#form1-9\">+7 (996) 934 08 72</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1344.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Crew Service",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header1-2\" data-toolbar=\"-mbrBtnMove\">О нас&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">Задать &nbsp;Вопрос</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "color": "#1d4970"
+            },
+            "SMALL": {
+              "text-align": "center",
+              "color": "#0275d8"
+            }
+          },
+          "_anchor": "header3-4",
+          "title": "Правовое обеспечение профессиональной деятельности моряков.",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Company by 2010 -2017&nbsp;"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "counters": true,
+            "twitter": false,
+            "google": true
+          },
+          "text": "Поделиться&nbsp;"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "Crew-Solos<br>Один Моряк",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#msg-box4-5\" data-toolbar=\"-mbrBtnMove\">Информация</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#pricing-table1-8\" data-toolbar=\"-mbrBtnMove\">Цены</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "font-size": "15px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box4-5",
+          "_params": {
+            "imageSize": "42",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CREW &amp; SOLOS <br>Website info",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><br></p><p><br></p><h2><ol><li>КАК, БЫСТРО ОФОРМИТЬ ДОКУМЕНТЫ ДЛЯ МОРЯКА</li></ol></h2><p><br></p><p>1) Оставьте заявку&nbsp;</p><p>Оставить заявку можно заполнив форму или нажав на кнопку обратный звонок</p><p>2) С вами свяжется менеджер</p><p>Расскажите ему какие документы вас интересуют</p><p>3) Оплатите услуги консультации</p><p>Оплатить услуги консультации&nbsp;</p><p>можно как при встрече, так и дистанционно.</p><p>4) Собирайтесь в рейс</p><p>Заберите документы по адресу указанному консультантом.</p><p>Мы бережно относимся к информации о наших клиентах.&nbsp;</p><p>Информация о вас не будет передана третьим лицам.</p><p>За прошлый год мы помогли более 2480 морякам получить документы.</p><p>&nbsp;</p><p>Обратный звонок&nbsp;</p><h1>☎ +7 996 934 08 72</h1><h2>https://vk.com/doki_morykam</h2>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#msg-box4-5\" data-toolbar=\"-mbrBtnMove\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "content1-f",
+          "text": "<p>ОФОРМЛЕНИЕ МОРСКИХ ДОКУМЕНТОВ</p><p>Оформление морских документов – услуга по оформлению стандартного пакета документов, необходимого для устройства на работу или выхода в плаванье специалиста в качестве члена морского экипажа на отечественное или иностранное судно.</p><p>Срок выполнения:от 3-х недель</p><p>По Вашему желанию наши специалисты окажут Вам содействие в оформлении отдельных морских документов, проконсультируют Вас или полностью оформят за Вас необходимый пакет морских документов «под ключ». Особенно ценна данная услуга для новичков мореплавания, а также для тех, кто успешно продвигается по профессиональной и карьерной лестнице и нуждается в дополнительных документах. К каждому клиенту мы подходим индивидуально и всегда готовы быстро и качественно подготовить для Вас документы моряка для работы на отечественных и заграничных судах.</p><p>Отправляясь в рейс для приобретения профессионального опыта и практических навыков, нередко приходится отказываться от стационарного обучения для получения стандартных морских документов. В таких случаях члены экипажа часто переводятся на заочное отделение для более легкого получения документов моряка. Нарабатывая опыт, можете не переживать о том, что это время проходит для Вас зря. Мы окажем Вам максимальное содействие в получении нужных морских документов ( как всех, так и выборочных ).</p><p>Оформление морских документов включает:</p><p>паспорт моряка;морские сертификаты для различных специалистов;диплом GMDSS ( ГМССБ );сертификаты для работы на различных судах;рабочие дипломы моряка, подтверждение к рабочим дипломам ( Endorsement );документы, подтверждающие квалификацию моряка ( электрика, электромеханика, стюарда, сварщика, токаря, докермена, повара, официанта, кадета, матроса, боцмана, моториста и др. ).</p><p>Чтобы стать моряком нужно не только получить соответствующее для этой работы образование, но и иметь на руках необходимые документы, подтверждающие вашу квалификацию и прохождение соответствующей подготовки. А это немалый перечень документов! Мы помогаем каждому человеку оформить полный пакет документов моряка максимально быстро и без лишних формальностей.</p><p>Известно, что для отправки в рейс в некоторых случаях требуется опыт работы на судах. Мы можем помочь Вам с плавцензом и эндорсментом, что существенно поможет вам при найме на работу. В последнее время желающих получить документы для моряков становится всё больше, но времени на простаивание в очередях – нет, а необходимость в  их наличии – есть. Каждому нашему клиенту мы предоставляем возможность получить документы морских специалистов в сжатые сроки.</p><p>Для получения необходимой для Вас информации Вы можете воспользоваться любым из 3-х вариантов: заполнить специальную форму на сайте, оставить запрос на обратный звонок  или позвонить нам по указанным на сайте номерам телефонов. Не экономьте на серьезных вещах! Доверяйте оформление морских документов профессионалам!</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "pricing-table1-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": true,
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary"
+          },
+          "title1": "Сертификаты 5 шт",
+          "currency1": "",
+          "price1": "Руб.28.500",
+          "period1": "руб.",
+          "list1": "<ul class=\"list-group list-group-flush\"><p><b>5 Основных</b></p><p><b>Сертификатов</b><br><b>Рядовой-КM</b></p></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-9\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
+          "title2": "Свидетельство",
+          "currency2": "",
+          "price2": "",
+          "period2": "Руб.30<b>.500</b>",
+          "list2": "<ul class=\"list-group list-group-flush\"><b>Свидетельство 2017</b><br><li class=\"list-group-item\"><b>Рядовой</b></li><b>Замена</b></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "Консультации",
+          "currency3": "FREE",
+          "price3": "",
+          "period3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><p><b>Комсостав</b></p><p><b style=\"font-size: 1rem; line-height: 1.5;\">По тел.</b></p><p><b>По скайпу</b></p></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-9\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Звонок</a>",
+          "title4": "Задать вопросы",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "per month",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Storage</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>1TB GB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#contacts3-b\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Вопросы?</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1602.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Contact Form",
+          "form": {
+            "action": "crew-solos@outlook.com",
+            "alerts": {
+              "success": "Сообщение"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "UL": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "contacts3-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>RUSSIAN<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +7 996 934 08 72<br>Skype: crew-solos",
+          "text2": "<p><strong>Links</strong></p><p><b>http://vk.com/doki_morykam</b></p><p><b>www.doki-morykam.ru</b></p><p><strong><br></strong><span style=\"font-size: 1rem; line-height: 1.5; text-align: center;\">Информация&nbsp;</span></p><p>Заполните все необходимые поля для обратной связи!</p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "crew-solos@outlook.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Subscribe to our Newsletter",
+          "form": {
+            "action": "crew-solos@outlook.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#0275d8"
+            }
+          },
+          "_anchor": "footer1-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Crew-Solos. <a href=\"index.html#form1-9\">Terms of Use</a>  | Privacy Policy NEW CREW SERVICE DOKI-MORYKAM 2006-2017 www.doki-morykam.ru"
+        }
+      ]
+    }
+  }
+}
