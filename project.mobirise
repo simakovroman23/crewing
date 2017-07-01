@@ -26,7 +26,9 @@
     "scrollAnimation": "true",
     "favicon": "",
     "noImageResize": "true",
-    "uniqCompNum": 10
+    "uniqCompNum": 10,
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -289,7 +291,7 @@
             "showButtons": true,
             "secondType": "bg-primary",
             "thirdType": "",
-            "fourthType": ""
+            "fourthType": "hidden"
           },
           "title": "ПРАЙС ТАБЛИЦА",
           "subtitle": "Прайс <b>платных</b> услуг для плавсостава !",
