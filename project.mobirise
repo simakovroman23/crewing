@@ -152,7 +152,7 @@
           },
           "title": "DOKI-MORYKAM",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">Информация</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table1-1\" data-toolbar=\"-mbrBtnMove\">Цены</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content8-8\" data-toolbar=\"-mbrBtnMove\">Информация</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table1-1\" data-toolbar=\"-mbrBtnMove\">Цены</a>"
         },
         {
           "_tags": [
@@ -183,9 +183,9 @@
                 "showTitle": true,
                 "title": "МОРЯКИ",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "По всем интересующим вопросам вы можите нам позвонить&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#image1-0\" data-toolbar=\"-mbrBtnMove\">+7 996 934 08 72</a> "
               },
               {
                 "active": false,
@@ -197,7 +197,7 @@
                 "showTitle": true,
                 "title": "МОРСКОЕ ОБРАЗОВАНИЕ",
                 "showText": true,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "text": "Все вопросы задавайте нам по EMAIL : GOODKAP2017@MAIL.RU",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -209,11 +209,11 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "ФОТО&nbsp;",
+                "title": "Информация&nbsp;",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Морская Ассоциация предлагает качественную помощь Морякам:⚓<br>-Медкомиссия для плавсостава и постуления в морские ВУЗы.<br>-Плавценз,практика с подтверждением в Т.К. и М.К.<br>Работаем со всеми регионами РФ.<br>*Архангельск.<br>*Мурманск.<br>*Петрозаводск.<br>*Санкт Петербург.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Информация&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
@@ -258,6 +258,9 @@
               "color": "#ffffff",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-price-value": {
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -291,21 +294,21 @@
           "title": "ПРАЙС ТАБЛИЦА",
           "subtitle": "Прайс <b>платных</b> услуг для плавсостава !",
           "label1": "HOT!",
-          "title1": "СТАНДАРТ",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "5",
-          "period1": "/ULM.",
-          "description1": "Тариф стандарт включает индивидуальную подписку для рядового состава.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8 GB storage</li><li class=\"list-group-item\">2 users</li><li class=\"list-group-item\">4 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "title1": "ДЛЯ КОМСОСТАВА&nbsp;",
+          "subtitle1": "ПАКЕТ",
+          "currency1": "48.500 РУБ.<br>НАЧАЛЬНОЕ<br>ш&nbsp;<br>",
+          "price1": "",
+          "period1": "",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">4 ШТ. СЕРТИФИКАТЫ&nbsp;</li><li class=\"list-group-item\">&nbsp;1 ДЕНЬ<br></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#contacts4-3\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ПЕРЕЙТИ&nbsp;</a>",
           "label2": "HOT!",
-          "title2": "БИЗНЕС",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "10",
-          "period2": "/SOLOS.",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "title2": "РЯДОВЫЕ",
+          "subtitle2": "ПАКЕТ",
+          "currency2": "РУБ.",
+          "price2": "18.500<br>",
+          "period2": "",
+          "description2": "",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "label3": "HOT!",
